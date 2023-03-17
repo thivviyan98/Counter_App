@@ -1,0 +1,54 @@
+body{
+    align-items: center;
+    margin:0;
+    background-color: #1b1b32;;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    height:2rem;
+    width: 2rem;
+    color: rgb(0, 0, 0);
+    width: 2.5rem;
+    margin-bottom: 5px;
+    border-radius: 5px;
+   
+   
+
+}
+button:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.button{
+    display: flex;
+  justify-content: center;
+}
+
+
+.save{
+    display:flex;
+    justify-content: center;
+    size:rem;
+    
+}
+h2{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+div{
+    align-items: center;
+}
+
+
+ 
